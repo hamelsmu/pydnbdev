@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pydnbdev"
+  site-url: "https://hamelsmu.github.io/pydnbdev"
+  description: "Pydata Demo"
+  repo-branch: main
+  repo-url: "https://github.com/hamelsmu/pydnbdev"
